@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603870306820",
+    "project_id": "streamit-5820c",
+    "storage_bucket": "streamit-5820c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603870306820:android:18738306eb06d094980b51",
+        "android_client_info": {
+          "package_name": "com.seonjusan.streamit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbGIwFBjd7cspAC-l_npnt9Qi8-GI3P0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
